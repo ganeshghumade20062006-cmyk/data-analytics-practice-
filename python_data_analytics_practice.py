@@ -223,3 +223,86 @@ print("Python is good \nAnd i have intrest in it")
 # And i have intrest in it
 
 # .....
+
+print("comments in python")
+
+# 1.single line comments
+
+# hello my name is Ganes
+# hello my name is Yash
+
+# Today i will go home
+# I got my mobile
+# I will eat food now
+# He is mmy friend
+# I like tea
+# She is in the room
+# I will study today
+# We are going outside
+# I have a pen
+# They are playing now
+
+# 2.multiple line comments
+
+"""""in this program we are going to learn about
+data analytics and many more things 
+using python programming language"""
+
+"""
+This program takes input from the user.
+It performs a basic calculation.
+The result is displayed on the screen"""
+
+"""
+This script is created for learning python basic.
+It focused on understanding comments.
+No external libraries are used.
+"""
+"""
+This program check whether a number is even oor odd.
+It is used conditional statements.
+The output is shown to the user.
+"""
+"""
+This code demonstrates the use of variables.
+Simple data types are used.
+It is suitable for beginners.
+"""
+"""
+This program calculates the sum of two numbers.
+User input is converted into integers.
+The final result is ptinted.
+"""
+"""
+This program demonstrates basic input and output.
+The input is taken in keyboard.
+The input is shown using print function.
+"""
+
+# 3. multiple line comments(in single inverted commas)
+
+'''in this program we are going to learn about
+data analytics and many more things 
+using python programming language'''
+
+'''
+This script checks user eligibility.
+Age condition is applied.
+Output is shown on screen.
+'''
+'''
+This code demonstrates basic python syntax.
+It is suitable for beginners.
+No advanced logic is used.
+'''
+'''
+This program explains the use of loops.
+A for loop is implemented.
+Each value is processed.
+'''
+'''
+This files is created for created for internship practice.
+Focus on clean code.
+Proper comments are included
+'''
+# .....
