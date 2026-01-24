@@ -306,3 +306,121 @@ Focus on clean code.
 Proper comments are included
 '''
 # .....
+
+print("creating variables in python")
+
+"""variables are placeholders, in which we can store a value """
+
+a="hello"
+print(a)
+# hello
+
+a="hello"
+print("a")
+# a
+
+name="Ganesh"
+print(name)
+
+# Ganesh
+
+h="hello my name is rahul"
+print(h)
+
+# hello my name is rahul
+
+age="hi's age is closer to my age"
+print(age)
+
+# hi's age is closer to my age
+
+k="Ganesh"
+print("k")
+
+# k
+
+j="Hello world is there is any changes"
+print("j")
+
+# j
+
+hello="hey i am here"
+print(hello)
+
+# hey i am here
+
+age=14
+print(age)
+
+# 14
+
+age=14
+print("age")
+
+# age)
+
+#.make sure to not use space while creating a variable
+# if want to create space then use underscore symbol(_)
+
+one_number="Ganesh Yash"
+print(one_number)
+# Ganesh Yash
+
+user_age="Store the age of user"
+print(user_age)
+
+# Store the age of user
+
+student_name="Store the full name of a student"
+print("student_name")
+
+# student_name
+
+student_age="Store the full name of a student"
+print(student_name)
+
+# Store the full name of a student
+
+item_price="Stores the price of a single items"
+print(item_price)
+
+# Stores the price of a single items
+
+total_mark="Store the total marks obtained in exam"
+print(total_mark)
+
+# Store the total marks obtained in exam
+
+is_active=("Store whether the user account is active or not")
+print(is_active)
+
+# Store whether the user account is active or not
+
+login_account="Store how many times the user has logged in"
+print(login_account)
+
+# Store how many times the user has logged in
+
+city_name="Stores the name of city"
+print(city_name)
+
+# Stores the name of city
+
+average_score="Stores the average score of a students"
+print("average_score")
+
+# average_score
+
+order_id="Stores the unique id of an order"
+print(order_id)
+
+
+
+# Stores the unique id of an order
+
+current_balanced="Stores the current balanced in the account"
+print(current_balanced)
+
+# Stores the current balanced in the account
+
+# .....
