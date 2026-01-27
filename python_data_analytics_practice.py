@@ -424,3 +424,278 @@ print(current_balanced)
 # Stores the current balanced in the account
 
 # .....
+
+print("data type and user-input")
+
+# Datatypes:
+
+"""text-type: string(str)
+numeric type: integer(int),floating point(float),complex
+sequence type: list,tuple and range
+mapping type: dictionaries(dict)
+set type: set, frozenset
+boolean type: bool
+binary types: bytes, bytearray, memoryview"""
+
+"""user input""" # in string type
+
+name=input("enter your name here: ")
+print(name)
+# enter your name here: Ganesh
+# Ganesh
+
+
+
+food=input("Enter your favorite food: ")
+print("your favorite food is", food)
+
+# Enter your favorite food: Apple
+# your favorite food is Apple
+
+city=input("Enter your city name: ")
+print("Your city name is", city)
+
+# Enter your city name: Nagpur
+# Your city name is Nagpur
+
+movie=input("Enter your favorite movie: ")
+print("Your favorite movie is", movie)
+
+# Enter your favorite movie: My friend Ganesha
+# Your favorite movie is My friend Ganesha
+
+
+sports=input("Enter your favorite sport: ")
+print("your favorite sport is", sports)
+
+# Enter your favorite sport: Cricket
+# your favorite sport is Cricket
+
+college=input("Enter your favorite college: ")
+print("Your favorite college is", college)
+
+# Enter your favorite college: CSMSS college of engineering
+# Your favorite college is CSMSS college of engineering
+
+hobby=input("Enter your hobby: ")
+print("Your hobby is", hobby)
+
+# Enter your hobby: Reading books
+# Your hobby is Reading books
+
+colour=input("Enter your favorite colour: ")
+print("Your favorite colour is", colour)
+
+# Enter your favorite colour: Red
+# Your favorite colour is Red
+
+subject=input("Enter your favorite subject here: ")
+print("Your favorite subject is", subject)
+
+# Enter your favorite subject here: Maths
+# Your favorite subject is Maths
+
+
+"""user input""" # in integer type (int)
+
+age=int(input("enter your age here: "))
+print(age)
+# enter your age here: 20
+# 20
+
+roll_number=int(input("Enter your roll number: "))
+print("Your roll number is", roll_number)
+
+# Enter your roll number: 5196
+# Your roll number is 5196
+
+year=int(input("Enter any random year here: "))
+print("Your year is", year)
+
+# Enter any random year here: 2026
+# Your year is 2026
+
+mobile_pin=int(input("Enter your mobile pin no. here: "))
+print("Your mobile pin number is", mobile_pin)
+
+# Enter your mobile pin no. here: 454545
+# Your mobile pin number is 454545
+
+marks=int(input("Enter your marks here: "))
+a=marks
+print("Your marks is", a)
+
+# Enter your marks here: 56
+# Your marks is 56
+
+number=int(input("Enter your number: "))
+l=number
+print("Your number is", a)
+
+# Enter your number: 78954
+# Your number is 56
+
+salary=int(input("Enter your salary here: "))
+print("your salary is", salary)
+
+# Enter your salary here: 10000
+# your salary is 10000
+
+temperature=int(input("Enter your city temperature here: "))
+print("Your city temperature is", temperature)
+
+# Enter your city temperature here: 45
+# Your city temperature is 45
+
+add=int(input("Enter ant number here and i will add 1: "))
+print("Your number is", add+1)
+
+# Enter ant number here and i will add 1: 9
+# Your number is 10
+
+minus=int(input("Enter ant number here and i will minus 1: "))
+print("Your number is", minus-1)
+
+# Enter ant number here and i will minus 1: 10
+# Your number is 9
+
+multiply=int(input("Enter any number here i will multiply by itself: "))
+print("Your number is", multiply*multiply)
+
+# Enter any number here i will multiply by itself: 10
+# Your number is 100
+
+
+"""user input""" # in floating point type (float)
+
+length=float(input("enter thee length of the rectangle: "))
+print(length)
+# enter thee length of the rectangle: 42.2
+# 42.2
+
+temperature=float(input("Enter your body temperature here: "))
+a=temperature
+print("your body temperature is", a)
+
+# Enter your body temperature here: 45.5
+# your body temperature is 45.5
+
+height=float(input("Enter your height in cm here: "))
+print("Your height in cm is", height)
+
+# Enter your height in cm here: 170.5
+# Your height in cm is 170.5
+
+battery=float(input("Enter your mobile battery percentage here: "))
+print("Your mobile battery percentage is", battery)
+
+# Enter your mobile battery percentage here: 88.00
+# Your mobile battery percentage is 88.0
+
+price=float(input("Enter your shopping price here: "))
+print("Your shopping price is", price)
+
+# Enter your shopping price here: 12.04
+# Your shopping price is 12.04
+
+distance=float(input("Enter the distance between your house to school: "))
+print("Your distance from house too school is", distance)
+
+
+# Enter the distance between your house to school: 400.00
+# Your distance from house too school is 400.0
+
+float=float(input("enter any integer here: "))
+print("Your integer number is", float)
+
+# enter any integer here: 10.25
+# Your integer number is 10.25
+
+bill=float(input("Enter your last months electricity bill here: "))
+print("Your last month electricity bill is", bill)
+
+# Enter your last months electricity bill here: 452.00
+# Your last month electricity bill is 452.0
+
+value=float(input("Enter here any integer value: "))
+print("Your city temperature in Celsius is", value)
+
+# Enter here any integer value: 42.00
+# Your city temperature in Celsius is 42.0
+
+
+"""user input""" # in evaluating the expression (eval)
+
+exp1=eval(input("enter any equation here: "))
+print(exp1)
+# enter any equation here: 56+44
+# 100
+
+
+exp1=eval(input("Enter any equation  here: "))
+print(exp1)
+
+# Enter any equation  here: 125*56+56-56
+# 7000
+
+exp2=eval(input("Enter any equation  here: "))
+print(exp2)
+
+# Enter any equation  here: 12.10-563.%56.0
+# 9.1
+
+exp3=eval(input("Enter any equation  here: "))
+print(exp3)
+
+# Enter any equation  here: 45.01*452.00
+# 20344.52
+
+exp4=eval(input("Enter any equation  here: "))
+print(exp4)
+
+# Enter any equation  here: 456+548
+# 1004
+
+exp5=eval(input("Enter any equation  here: "))
+print(exp5)
+
+# Enter any equation  here: 12.00*12.004
+# 144.048
+
+exp6=eval(input("Enter any equation  here: "))
+print(exp6)
+
+# Enter any equation  here: 14.01+2.011*56.01
+# 126.64611000000001
+
+exp7=eval(input("Enter any equation  here: "))
+print(exp7)
+
+# Enter any equation  here: 4789.%10.11
+# 6.970000000000269
+
+exp8=eval(input("Enter any equation  here: "))
+print(exp8)
+
+# Enter any equation  here: 125.0+56012
+# 56137.0
+
+exp9=eval(input("Enter any equation  here: "))
+print(exp9)
+
+# Enter any equation  here: 4562.0+25.011*45.00
+# 5687.495
+
+exp10=eval(input("Enter any equation  here: "))
+print(exp10)
+
+# Enter any equation  here: 45.01+45.01*45.01
+# 2070.9101
+
+exp11=eval(input("Enter any equation  here: "))
+print(exp11)
+
+# Enter any equation  here: 45.00+45.00
+# 90.0
+
+# .....
